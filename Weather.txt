@@ -1,0 +1,7 @@
+------------------------------------------------------------- 
+Weather Stats for - BHANDARA  || 22 Jun 2021 | 05:05:51 PM 
+------------------------------------------------------------- 
+Current temperature is: 30.33 deg C 
+Current weather desc  : Light rain 
+Current Humidity      : 76 % 
+Current wind speed    : 8.11 kmph 
